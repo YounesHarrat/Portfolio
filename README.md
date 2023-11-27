@@ -1,3 +1,15 @@
+# How to run project
+
+- download files
+- open zip
+- go into src folder
+- type in terminal: npm install
+- then to run project in local: npm run dev
+- then ctrl click on the localhost link to view project
+
+
+# HOW TO USE SVELTEKIT
+
 # create-svelte
 
 Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).
