@@ -1,20 +1,7 @@
-<script lang="ts">
-    import type { PageData } from './$types';
-    
-    export let data: PageData;
-</script>
+<!-- Create a Contact Form that sends directly to my email -->
 
-# #Contact Page
-<hr>
+<form action="post">
 
-## You can send me an email to :
-## YounesHarrat5896@gmail.com
-<br>
-
-## Find me online on
-<br>
-
-## Linkedin https://www.linkedin.com/in/younesharrat/
-<br>
-
-## Github https://github.com/YounesHarrat
+    <label for="Label">Lab</label>
+    <input type="text">
+</form>
